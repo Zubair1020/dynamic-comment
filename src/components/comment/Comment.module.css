@@ -1,0 +1,25 @@
+.commentCard {
+    max-width: 50%;
+    margin-inline: auto;
+    padding: 3rem;
+    background-color: pink;
+    margin-block: 3rem;
+    border-radius: 4px;
+    box-shadow: 0 0 13px 2px rgba(38, 17, 17, 0.11);
+}
+
+.userName {
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.userEmail {
+    font-size: 1.6rem;
+    font-weight: 500;
+    margin-block: .5rem 1rem;
+}
+
+.userComment {
+    font-size: 1.5rem;
+    line-height: 1.8;
+}

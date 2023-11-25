@@ -1,0 +1,16 @@
+.inputDiv {
+    display: flex;
+    flex-direction: column;
+}
+
+.label {
+    color: rgba(75, 72, 72, 0.81);
+    padding-block: 1rem;
+    font-size: 2rem;
+
+}
+
+.input {
+    padding: 1rem 2rem;
+    font-size: 1.5rem;
+}
